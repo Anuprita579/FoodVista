@@ -9,6 +9,13 @@
   },
   "author": "Anuprita Mhapankar",
   "license": "ISC",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not dead"
+  ],
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
     "datehumanizer": "^1.0.1",
